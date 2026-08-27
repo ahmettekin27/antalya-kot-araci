@@ -1,0 +1,13 @@
+[general]
+name=Antalya Ondulasyon ve Kot Araci
+qgisMinimumVersion=3.0
+description=Antalya ili icin DEM ve TG-20 tabanli hizli IDW kot ve jeoit ondulasyonu sorgulama araci (Gelistirici: Ahmet TEKIN)
+version=1.0
+author=Ahmet TEKIN
+email=ahmet@example.com
+about=Antalya bolgesi icin 45k siklastirilmis grid uzerinden mikrosaniyede IDW kot hesabi yapar. Sol tik ile nokta ekler, sag tik ile araci kapatir.
+icon=icon.png
+tags=antalya, elevation, geoid, tg20, undulation, idw, survey
+category=Vector
+experimental=False
+deprecated=False
