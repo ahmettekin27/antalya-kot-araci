@@ -33,3 +33,15 @@ antalya-kot-araci/
 ├── icon.png                 # QGIS Eklenti Yöneticisi ve menü ikonu (PNG)
 ├── icon.svg                 # Araç çubuğu vektörel ikonu (SVG)
 └── README.md                # Eklenti tanıtım ve kullanım kılavuzu
+
+🛠️ Kurulum
+Yöntem 1: GitHub ZIP Üzerinden Kurulum
+Bu depoyu sağ üstteki Code -> Download ZIP butonuna basarak bilgisayarınıza indirin.
+
+QGIS arayüzünde üst menüden Eklentiler -> Eklentileri Yönet ve Yükle penceresini açın.
+
+Sol panelden ZIP'ten Yükle (Install from ZIP) sekmesini seçin.
+
+İndirdiğiniz .zip arşivini seçerek Eklentiyi Kur butonuna tıklayın.
+Yöntem 2: Manuel KurulumDepo klasörünü işletim sisteminize uygun QGIS eklenti dizinine kopyalayın:Windows: %APPDATA%\QGIS\QGIS3\profiles\default\python\plugins\antalya_kot_araciLinux: ~/.local/share/QGIS/QGIS3/profiles/default/python/plugins/antalya_kot_aracimacOS: ~/Library/Application Support/QGIS/QGIS3/profiles/default/python/plugins/antalya_kot_araci📖 Kullanım RehberiQGIS araç çubuğundaki Antalya Kot & Ondülasyon Sorgula simgesine tıklayın.Harita üzerinde kotunu öğrenmek istediğiniz herhangi bir konuma Sol Tıklayın.Açılan bilgi penceresinde noktanın $X, Y$ koordinatları, $N, H, h$ yükseklik değerleri listelenir ve nokta otomatik olarak Sorgulanan_Grid_Noktalari katmanına eklenir.Sorgulama modundan çıkmak için harita üzerinde herhangi bir yere Sağ Tıklamanız yeterlidir.⚖️ Yasal Uyarı & Sorumluluk Reddiİşbu eklenti tarafından üretilen değerler, DEM verisi üzerinden hesaplanan Ortometrik Değerler ile Türkiye Jeoit Modeli-2020 (TG-20) esas alınarak sıklaştırılmış noktaların enterpolasyonu ile elde edilmiş yaklaşık değerleri içermektedir; resmi haritacılık ve kadastro işlemlerinde kesin kot değeri yansıtmamaktadır.👤 Geliştirici & LisansGeliştirici: Ahmet TEKİNLisans: GNU General Public License v2.0 (GPL-2.0)
+
