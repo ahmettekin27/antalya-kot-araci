@@ -1,6 +1,6 @@
 # Antalya Ondülasyon ve Kot Aracı (QGIS Eklentisi)
 
-Antalya ili ve yakın çevresi için Sayısal Yükseklik Modeli (DEM) verileri ile Türkiye Jeoit Modeli-2020 (TG-20) esas alınarak hazırlanmış, 45.000 sıklaştırılmış grid noktası üzerinden mikrosaniyeler mertebesinde jeoit ondülasyonu (N), ortometrik kot (H) ve elipsoit kot (h) hesabı yapan QGIS eklentisidir.
+Antalya ili ve yakın çevresi için Sayısal Yükseklik Modeli (DEM) verileri ile Türkiye Jeoit Modeli-2020 (TG-20) esas alınarak hazırlanmış, Antalya ili İçin sıklaştırılmış grid noktası üzerinden mikrosaniyeler mertebesinde jeoit ondülasyonu (N), ortometrik kot (H) ve elipsoit kot (h) hesabı yapan QGIS eklentisidir.
 
 ---
 
