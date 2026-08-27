@@ -38,7 +38,8 @@ Klasörü işletim sisteminize göre ilgili eklenti dizinine kopyalayın:
 1. QGIS araç çubuğundaki Antalya Kot & Ondülasyon Sorgula simgesine tıklayın.
 2. Harita üzerinde kotunu öğrenmek istediğiniz herhangi bir noktaya Sol Tıklayın.
 3. Bilgi penceresinde X, Y koordinatları ve N, H, h yükseklik değerleri gösterilir, nokta haritaya eklenir.
-4. Çıkmak için haritada herhangi bir yere Sağ Tıklayın.
+4. Sorgulanan Noktalar Geçici katman Olarak eklenir 
+5. Çıkmak için haritada herhangi bir yere Sağ Tıklayın.
 
 ---
 
